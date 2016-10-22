@@ -1,0 +1,25 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "hangman using nodejs and played in the console",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmos10/Week11-Hangman.git"
+  },
+  "author": "Jason Mosley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmos10/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/jpmos10/Week11-Hangman#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "inquirer": "^1.2.2",
+    "prompt": "^1.0.0",
+    "random-words": "0.0.1"
+  }
+}
